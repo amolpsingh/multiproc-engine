@@ -52,3 +52,5 @@ Additionally, the moment that the Raspberry Pi receives a program, it should wri
 The MIracle:
 
 The miracle in all of this; is to find a way to return values from the Raspberry PI. I feel that as long as we can show that this is faster than sequential programming, then we have a dub. Regardless of whether or not we can actually Pipe input from one pi to another, and feed it in as an argument to the PI. 
+
+-Sasha R, Joel R., Teddy Z., Amol S.
