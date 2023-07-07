@@ -1,5 +1,4 @@
 # multiproc-rpi
-CS140E Final Project
 Finish implementing the code in:
    - `get-code.c`, which has the routine `get_code` that does the actual loading.
      This is the only file you'll have to modify:
