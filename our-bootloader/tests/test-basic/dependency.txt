@@ -1,0 +1,4 @@
+a.bin:
+b.bin:
+c.bin: hello.bin, b.bin, a.bin
+hello.bin: a.bin, b.bin

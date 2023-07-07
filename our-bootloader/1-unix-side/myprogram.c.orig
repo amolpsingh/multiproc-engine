@@ -1,0 +1,15 @@
+// build dependency data struct based on txt
+// get all the ttyusbs
+// loop through functions that need to be run and decide which to send over to which tty and send it
+
+<<<<<<< HEAD
+=======
+void notmain(filename f) {
+    get_dependency_graph(f);
+    uint32_t num_procs = find_ttyusb_n();
+
+    
+}
+
+void find_ttyusb_n(
+>>>>>>> a88627f0a5ba1eaadbd1a23f7235de8c64237290
